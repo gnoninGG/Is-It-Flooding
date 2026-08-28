@@ -46,10 +46,10 @@ The initial program ID is a development placeholder. Generate and configure a de
 
 | Date | Deliverable |
 | --- | --- |
-| Aug 31, 2026 | Public map prototype, responsive layout, report data model, and repository documentation |
-| Sep 5, 2026 | Devnet Anchor report attestation program with tests and basic client submission flow |
-| Sep 10, 2026 | cNFT badge prototype, moderation queue, source transparency UI, and pilot feedback round |
-| Sep 15, 2026 | Public devnet beta, deployment documentation, demo walkthrough, and measured pilot KPI report |
+| Sep 5, 2026 | Public map prototype, responsive layout, report data model, and repository documentation |
+| Sep 10, 2026 | Devnet Anchor report attestation program with tests and basic client submission flow |
+| Sep 15, 2026 | cNFT badge prototype, moderation queue, source transparency UI, and pilot feedback round |
+| Sep 25, 2026 | Public devnet beta, deployment documentation, demo walkthrough, and measured pilot KPI report |
 
 ## Safety note
 
